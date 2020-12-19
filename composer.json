@@ -1,0 +1,10 @@
+{
+    "name": "lifhold-sample/users-exceptions",
+    "authors": [
+        {
+            "name": "Lukasz Grajewski",
+            "email": "grajewski.lukasz@wp.pl"
+        }
+    ],
+    "require": {}
+}
